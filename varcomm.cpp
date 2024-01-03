@@ -15,7 +15,7 @@ int main()
     cout << c << "\n";
     bool f = false;
     cout << f << "\n";
-    double z = 3.3436489289239598;
+    double z = 3.3436489;
     cout << z << "\n";
     return 0;
 }
