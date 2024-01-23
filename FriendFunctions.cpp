@@ -7,7 +7,7 @@ However, we can't use friend functions by using dot (.) operator with the object
 Syntax ->
 class className{
     public:
-    friend className funcName(args);
+    friend returntype funcName(args);
 }
 className funcName(args){}
 
