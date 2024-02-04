@@ -37,7 +37,7 @@ public:
 int main()
 {
     BaseClass *basePtr;
-    BaseClass baseObj;
+    // BaseClass baseObj;
     DerivedClass *derivedPtr;
     DerivedClass derivedObj;
     basePtr = &derivedObj;
